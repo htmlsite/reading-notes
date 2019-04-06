@@ -90,6 +90,7 @@
 1. 深入实践Spring Boot，by 陈韶健
 1. 黑客与画家:硅谷创业之父Paul Graham文集,by Paul Graham,翻译 阮一峰
 1. 算法图解，by 巴尔加瓦(2018-12-10读完)
+1. Linux系统命令及Shell脚本实践指南，by 王军(在读中)
 
 ## 杂类
 

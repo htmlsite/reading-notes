@@ -38,6 +38,7 @@
     * [JavaScript权威指南（第6版）](technology/JavaScript权威指南（第6版）.md)
     * [计算机是怎样跑起来的](technology/计算机是怎样跑起来的.md)
     * [JavaScript权威指南（第6版）](technology/JavaScript权威指南（第6版）.md)
+    * [Linux系统命令及Shell脚本实践指南](technology/Linux系统命令及Shell脚本实践指南.md)
     * Java多线程编程核心技术
     * 分布式Java应用
     * Java从初级到精通

@@ -8,3 +8,4 @@
 * [奥黛丽赫本传](person/奥黛丽赫本传.md)
 * [史蒂夫·乔布斯传](person/史蒂夫·乔布斯传.md)
 * [假如给我三天光明](person/假如给我三天光明.md)
+* [Linux系统命令及Shell脚本实践指南](technology/Linux系统命令及Shell脚本实践指南.md)
